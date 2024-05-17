@@ -1,23 +1,4 @@
-////import java.util.Scanner;
-//
-//
-//public class billing {
-//        public static void format(String date , String name  )
-//        {
-//
-//            System.out.println(" ");
-//            System.out.println("\t    GREAT OBSERVER RESTURANT CLUB ");
-//            System.out.println("======================================================");
-//            System.out.println(" Date :" +date);
-//            System.out.print(" Invoice To :"+name);
-//            System.out.println(" ");
-//            System.out.println("---------------------------------------------------------------");
-//            System.out.print(" Items ");
-//            System.out.print(" \t\t\t QTY ");
-//            System.out.println(" \t\t\t Total ");
-//            System.out.printl…
 
-//
 import java.util.*;
 //import java.util.Scanner;
 //import java.text.DateFormat;
